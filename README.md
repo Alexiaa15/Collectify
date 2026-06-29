@@ -9,7 +9,7 @@ Flutter app dengan Firebase untuk tracking koleksi game dan komik pribadi.
 - Status tracking (Playing/Reading/Completed/dll)
 - Rating bintang (0–5, half-star)
 - Notes/review pribadi
-- Cover image via URL
+- Cover image via URL atau ambil dari galeri
 - Filter by status
 - Dark mode gamer
 
