@@ -1,6 +1,6 @@
 # Collectify — Game & Comic Tracker
 
-Flutter app dengan Firebase untuk tracking koleksi game dan komik pribadi.
+Flutter app dengan Firebase untuk tracking koleksi game dan komik pribadi. Aplikasi ini bertujuan untuk mencatat game yang pernah dimainkan dan komik yang sudah dibaca lalu disimpan ke firestore dari firebase. jadi user punya koleksi riwayat tentang game dan komik lalu rating dan catatan pribadi. kekurangannya adalah tiap koleksi tidak bisa dilihat oleh user lain.
 
 ## Fitur
 - Google Sign In
